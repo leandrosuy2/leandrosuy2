@@ -17,8 +17,40 @@
 
 ---
 
-## Sobre mim  
-Sou desenvolvedor com experiência em tecnologias modernas como **JavaScript**, **TypeScript**, **React**, **Node.js** e **MongoDB**. Aqui você encontrará projetos que refletem minha paixão por tecnologia e desenvolvimento.  
+## 🚀 Sobre mim
+Sou desenvolvedor com experiência em tecnologias modernas como **JavaScript**, **TypeScript**, **React**, **Node.js** e **MongoDB**. Aqui você encontrará projetos que refletem minha paixão por tecnologia e desenvolvimento.
+
+Com mais de 4 anos de experiência em desenvolvimento full stack, aplico tecnologias modernas para criar soluções escaláveis e de alta qualidade. Minha expertise abrange tanto o frontend quanto o backend, com foco na modularidade e manutenibilidade do código.
+
+Sempre em busca de novos desafios, adapto-me rapidamente a novas tecnologias e práticas. Meu objetivo é continuar evoluindo como desenvolvedor, aplicando as melhores práticas e padrões de design para entregar projetos robustos e inovadores.
+
+### 🛠️ Habilidades Técnicas:
+
+**🎨 Frontend:**
+- 🧑‍🎨 HTML, CSS, SASS
+- ⚡ JavaScript, TypeScript
+- ⚛️ ReactJS, NextJS, React Native
+- 📱 Dart, Flutter
+
+**🧰 Backend:**
+- 🟢 Node.js, Express, GraphQL, NestJS
+- ☕ Java, Spring Boot, Laravel
+
+**🗄️ Banco de Dados:**
+- 🍃 MongoDB
+- 🐘 PostgreSQL
+- 🐬 MySQL
+
+**🧪 Testes:**
+- 🧫 Jest, Testing Library
+
+**☁️ Cloud & DevOps:**
+- 🌐 Cloud: AWS, GCP
+- 📦 Contêineres e CI/CD: Docker, Jenkins
+
+**📐 Padrões e Arquitetura:**
+- 📚 Design Patterns: SOLID, Clean Architecture
+- 📊 Metodologias Ágeis: Scrum, Kanban
 
 ### ⚠️ Nota importante:  
 Este é o meu **novo repositório no GitHub**! Infelizmente, perdi acesso ao meu repositório anterior. Se você o conhecia, ele era este:  
