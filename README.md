@@ -2,14 +2,14 @@
 
 # Olá! Eu sou Leandro Dantas 👋
 
-### Desenvolvedor Full Stack · Belém, PA
+### Especialista Full Stack · Belém, PA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-dantas-1959b711b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_su7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrosuy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandrosuy2)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;NestJS+%7C+TypeScript+%7C+Java;Sempre+aprendendo+e+construindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Especialista+Full+Stack;React+%7C+Next.js+%7C+Node.js;NestJS+%7C+TypeScript+%7C+Java;Sempre+aprendendo+e+construindo)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor **full stack** com mais de **4 anos** de experiência criando aplicações web e APIs escaláveis. Trabalho do frontend ao backend, com foco em código limpo, modularidade e boas práticas.
+Sou **especialista full stack** em criar aplicações web e APIs escaláveis. Trabalho do frontend ao backend, com foco em código limpo, modularidade e boas práticas.
 
 Atualmente atuo principalmente com **TypeScript**, **React/Next.js**, **Node.js/NestJS** e bancos relacionais e NoSQL. Também tenho experiência com **Java/Spring Boot**, mobile (**React Native / Flutter**) e cloud (**AWS / GCP**).
 
@@ -80,19 +80,6 @@ Atualmente atuo principalmente com **TypeScript**, **React/Next.js**, **Node.js/
 | [opencnab](https://github.com/leandrosuy2/opencnab) | Projeto relacionado a CNAB | TypeScript |
 | [miniblockchain](https://github.com/leandrosuy2/miniblockchain) | Implementação educacional de blockchain | Python |
 | [enterprise-asset-management](https://github.com/leandrosuy2/enterprise-asset-management) | Gestão de ativos empresariais | JavaScript |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosuy2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats de Leandro" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosuy2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandrosuy2&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
 
 ---
 
